@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- :computer: I’m currently learning skills from CS50 program.
+:computer: I’m currently learning skills from CS50 program.
+
+<br/>
 
 Also available on [LinkedIn](https://www.linkedin.com/in/avi-kathuria-6b222763/)
 <!--
