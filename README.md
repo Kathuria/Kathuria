@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- :computer: I’m currently learning skills from CS50 program.
+
+Also available on [LinkedIn](https://www.linkedin.com/in/avi-kathuria-6b222763/)
 <!--
 **Kathuria/Kathuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
