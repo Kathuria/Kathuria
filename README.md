@@ -4,7 +4,8 @@
 <p><em>Senior Experience Technology Analyst at <a href="https://www.publicissapient.com/">Publicis Sapient</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: avi-kathuria](https://img.shields.io/badge/-avi%20kathuria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avi-kathuria-6b222763/)](https://www.linkedin.com/in/avi-kathuria-6b222763/)
+[![Linkedin: avi-kathuria](https://img.shields.io/badge/-avi%20kathuria-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avi-kathuria-6b222763/)](https://www.linkedin.com/in/avi-kathuria-6b222763/)
+[![Gmail Badge](https://img.shields.io/badge/-avikathuria21@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:avikathuria21.com)](mailto:kanna6501@gmail.com)
 ![](https://komarev.com/ghpvc/?username=Kathuria&color=green)
 [![GitHub Kathuria](https://img.shields.io/github/followers/Kathuria?label=follow&style=social)](https://github.com/Kathuria)
 
@@ -24,24 +25,24 @@ const avi = {
 <details open>
 <summary><b>⚡ Technologies</b></summary>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=plastic&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=plastic&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 </details>
 <br />
 
@@ -56,7 +57,7 @@ const avi = {
 <br />
 
 <details open>
-<summary><b>Competitive Programming Profiles [College]</b></summary>
+<summary><b>Competitive Programming Profiles</b></summary>
 <a href="https://www.hackerrank.com/Kathuria" title='Hackerrank'>
     <img align="left" alt="Avi's hackerrank" width="32px" src="https://cdn.cutshort.io/public/companies/572b17e20aeee5dd0b12e94a/hackerrank-logo" />
 </a>
