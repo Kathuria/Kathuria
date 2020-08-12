@@ -21,7 +21,6 @@ const avi = {
   currentChallenge: "I am exploring alexa integrations with products "
 }
 ```
-<br />
 <details open>
 <summary><b>⚡ Technologies</b></summary>
 
@@ -44,6 +43,7 @@ const avi = {
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 </details>
+<br />
 
 <details open>
 <summary><b>Git Statistics</b></summary>
