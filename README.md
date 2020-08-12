@@ -22,7 +22,7 @@ const avi = {
   currentChallenge: "I am exploring alexa integrations with products "
 }
 ```
-<details open>
+<details close>
 <summary><b>⚡ Technologies</b></summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -46,7 +46,7 @@ const avi = {
 </details>
 <br />
 
-<details open>
+<details close>
 <summary><b>Git Statistics</b></summary>
 <p align="left">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Kathuria&show_icons=true&include_all_commits=true&theme=buefy"/>
@@ -56,7 +56,7 @@ const avi = {
 </details>
 <br />
 
-<details open>
+<details close>
 <summary><b>Competitive Programming Profiles</b></summary>
 <a href="https://www.hackerrank.com/Kathuria" title='Hackerrank'>
     <img align="left" alt="Avi's hackerrank" width="32px" src="https://cdn.cutshort.io/public/companies/572b17e20aeee5dd0b12e94a/hackerrank-logo" />
