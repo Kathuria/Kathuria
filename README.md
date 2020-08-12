@@ -4,7 +4,8 @@
 <p><em>Senior Experience Technology Analyst at <a href="https://www.publicissapient.com/">Publicis Sapient</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: avi-kathuria](https://img.shields.io/badge/-avi%20kathuria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avi-kathuria-6b222763/)](https://www.linkedin.com/in/avi-kathuria-6b222763/)
+📫 [![Linkedin: avi-kathuria](https://img.shields.io/badge/-avi%20kathuria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avi-kathuria-6b222763/)](https://www.linkedin.com/in/avi-kathuria-6b222763/)
+![](https://komarev.com/ghpvc/?username=Kathuria&color=green)
 [![GitHub Kathuria](https://img.shields.io/github/followers/Kathuria?label=follow&style=social)](https://github.com/Kathuria)
 
 
@@ -32,18 +33,3 @@ const avi = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to connect me.</b> 😊</em>
 
 <!--The End, special thanks to all the wonderful people who made the GitHub profile readme stats/workflows to make my profile look fabulously dynamic ❤️-->
-
-<!--
-**Kathuria/Kathuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
