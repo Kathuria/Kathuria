@@ -5,7 +5,7 @@
 </em></p>
 
 [![Linkedin: avi-kathuria](https://img.shields.io/badge/-avi%20kathuria-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avi-kathuria-6b222763/)](https://www.linkedin.com/in/avi-kathuria-6b222763/)
-[![Gmail Badge](https://img.shields.io/badge/-avikathuria21@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:avikathuria21.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-avikathuria21@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:avikathuria21@gmail.com)](mailto:avikathuria21@gmail.com)
 ![](https://komarev.com/ghpvc/?username=Kathuria&color=green)
 [![GitHub Kathuria](https://img.shields.io/github/followers/Kathuria?label=follow&style=social)](https://github.com/Kathuria)
 
