@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm <img src="./anmated-name.gif"/>
-<img align='right' src="./avatar.png" width="230">
+### I'm <img src="https://raw.githubusercontent.com/Kathuria/Kathuria/master/anmated-name.gif"/>
+<img align='right' src="https://raw.githubusercontent.com/Kathuria/Kathuria/master/avatar.png" width="230">
 <p><em>Senior Experience Technology Analyst at <a href="https://www.publicissapient.com/">Publicis Sapient</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
