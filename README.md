@@ -23,7 +23,7 @@ const avi = {
 }
 ```
 <details close>
-<summary><b>⚡ Technologies</b></summary>
+<summary><b>Technologies</b></summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js)
@@ -59,34 +59,69 @@ const avi = {
 <details close>
 <summary><b>Competitive Programming Profiles</b></summary>
 <a href="https://www.hackerrank.com/Kathuria" title='Hackerrank'>
-    <img align="left" alt="Avi's hackerrank" width="32px" src="https://cdn.cutshort.io/public/companies/572b17e20aeee5dd0b12e94a/hackerrank-logo" />
+    <img align="left" alt="Avi's hackerrank" width="40px" src="https://cdn.cutshort.io/public/companies/572b17e20aeee5dd0b12e94a/hackerrank-logo" />
 </a>
 <a href="http://www.hackerearth.com/@kathuria.avi" title='Hackerearth'>
-    <img align="left" alt="Avi's Hackerearth" width="32px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1445268576/bus7umjcy0wqunjefizi.jpg" />
+    <img align="left" alt="Avi's Hackerearth" width="40px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1445268576/bus7umjcy0wqunjefizi.jpg" />
 </a>
 <a href="https://www.codecademy.com/profiles/Kathuria" title='Codecademy'>
-    <img align="left" alt="Avi's Codecademy" width="32px" src="https://alternative.me/media/256/codecademy-icon-kaifscwzqkl89ywi-c.png" />
+    <img align="left" alt="Avi's Codecademy" width="40px" src="https://alternative.me/media/256/codecademy-icon-kaifscwzqkl89ywi-c.png" />
 </a>
 <a href="https://codepen.io/avi_kathuria" title='Codepen'>
-    <img align="left" alt="Avi's Codepen" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg" />
+    <img align="left" alt="Avi's Codepen" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg" />
 </a>
 <a href="https://www.techgig.com/avi18" title='TechGig'>
-    <img align="left" alt="Avi's TechGig" width="32px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/82/44/9a/82449a69-2661-df27-4cef-82a0f668fdc4/source/256x256bb.jpg" />
+    <img align="left" alt="Avi's TechGig" width="40px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/82/44/9a/82449a69-2661-df27-4cef-82a0f668fdc4/source/256x256bb.jpg" />
 </a>   
 <a href="https://projecteuler.net/progress" title='ProjectEuler'>
-    <img align="left" alt="Avi's ProjectEuler" width="32px" src="https://nl.mathworks.com/images/responsive/supporting/matlabcentral/cody/badges/project_euler.png" />
+    <img align="left" alt="Avi's ProjectEuler" width="40px" src="https://nl.mathworks.com/images/responsive/supporting/matlabcentral/cody/badges/project_euler.png" />
 </a>  
 <a href="https://sapient.udemy.com/user/avi-kathuria/" title='Udemy'>
-    <img align="left" alt="Avi's Udemy" width="32px" src="https://pbs.twimg.com/profile_images/1251141687000264704/U6aXex47_400x400.png" />
+    <img align="left" alt="Avi's Udemy" width="40px" src="https://pbs.twimg.com/profile_images/1251141687000264704/U6aXex47_400x400.png" />
 </a>    
 <a href="https://www.coursera.org/user/e772ef4969c9d33f567c951ad217e3fb" title='Coursera'>
-    <img align="left" alt="Avi's Coursera" width="32px" src="https://ucarecdn.com/e483b814-5ca9-4784-95b8-be011000c26e/-/format/jpeg/-/progressive/yes/-/preview/480x480/" />
+    <img align="left" alt="Avi's Coursera" width="40px" src="https://ucarecdn.com/e483b814-5ca9-4784-95b8-be011000c26e/-/format/jpeg/-/progressive/yes/-/preview/480x480/" />
 </a>
 <a href="https://app.pluralsight.com/profile/avi-kathuria" title='Pluralsight'>
-    <img align="left" alt="Avi's Pluralsight" width="32px" src="https://user-images.githubusercontent.com/4683221/34775011-89bb46c2-f609-11e7-8bd1-d7a70d2277fd.jpg" />
+    <img align="left" alt="Avi's Pluralsight" width="40px" src="https://user-images.githubusercontent.com/4683221/34775011-89bb46c2-f609-11e7-8bd1-d7a70d2277fd.jpg" />
 </a>  
 </details>
-<br /><br />  
+<br />  
+
+<details close>
+<summary><b>Alexa Skills</b></summary>
+<a href="https://www.amazon.in/Kathuria-Indian-National-Anthem/dp/B077GSNST1" title='Indian National Anthem'>
+    <img align="left" alt="Indian National Anthem Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/71FNomBSzKL.png" />
+</a>
+<a href="https://www.amazon.in/Kathuria-Rhymes-for-Kids/dp/B0796D42N4" title='Rhymes for Kids'>
+    <img align="left" alt="Rhymes for Kids Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/71j8Olevq-L.png" />
+</a>
+<a href="https://www.amazon.in/Kathuria-India-Tour-Guide/dp/B07C1CH2PV" title='India Tour Guide'>
+    <img align="left" alt="India Tour Guide Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/810MeOUV7rL.png" />
+</a>
+<a href="https://www.amazon.in/Kathuria-Smoke-Count/dp/B07CKHTG1P" title='Smoke Count'>
+    <img align="left" alt="Smoke Count Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/61rMNIU15nL.png" />
+</a>
+<a href="https://www.amazon.in/Kathuria-Indian-Traditions/dp/B07HLYQ74P" title='Indian Traditions'>
+    <img align="left" alt="Indian Traditions Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/71RWvDjxz0L.png" />
+</a>   
+<a href="https://www.amazon.in/Kathuria-Cramming-Tricks/dp/B07JMH2C73" title='Cramming Tricks'>
+    <img align="left" alt="Cramming Tricks Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/71efn6edNnL.png" />
+</a>  
+<a href="https://www.amazon.in/Kathuria-Three-Words/dp/B07JN1R5M6" title='Three Words'>
+    <img align="left" alt="Three Words Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/716BWFwT6PL.png" />
+</a>    
+<a href="https://www.amazon.in/Kathuria-Interview-HW/dp/B07JNDCMVY" title='Interview HW'>
+    <img align="left" alt="Interview HW Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/61QAWGJsmsL.png" />
+</a>
+<a href="https://www.amazon.in/Kathuria-Jump-Numbers/dp/B07RT4D52S" title='Jump Numbers'>
+    <img align="left" alt="Jump Numbers Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/71MD24dGUwL.png" />
+</a>  
+<a href="https://www.amazon.in/Kathuria-b-c/dp/B07WSPV1NW" title='क ख ग'>
+    <img align="left" alt="क ख ग Skill" width="50px" src="https://images-na.ssl-images-amazon.com/images/I/812fTlVZMSL.png" />
+</a>   
+</details>
+<br />
 
 <!-- Feel free to reach out and introduce yourself :D-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to connect me.</b> 😊</em>
