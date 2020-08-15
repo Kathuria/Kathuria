@@ -86,7 +86,7 @@ const avi = {
     <img align="left" alt="Avi's Pluralsight" width="40px" src="https://user-images.githubusercontent.com/4683221/34775011-89bb46c2-f609-11e7-8bd1-d7a70d2277fd.jpg" />
 </a>  
 </details>
-<br />
+<br /> <br />
 
 <details open>
 <summary><b>Alexa Skills</b></summary>
@@ -121,7 +121,7 @@ const avi = {
     <img align="left" alt="क ख ग Skill" width="60px" src="https://images-na.ssl-images-amazon.com/images/I/812fTlVZMSL.png" />
 </a>   
 </details>
-<br /> <br />
+<br /> <br /> <br />
 
 <!-- Feel free to reach out and introduce yourself :D-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to connect me.</b> 😊</em>
