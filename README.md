@@ -82,6 +82,9 @@ const avi = {
 <a href="https://www.coursera.org/user/e772ef4969c9d33f567c951ad217e3fb" title='Coursera'>
     <img align="left" alt="Avi's Coursera" width="32px" src="https://ucarecdn.com/e483b814-5ca9-4784-95b8-be011000c26e/-/format/jpeg/-/progressive/yes/-/preview/480x480/" />
 </a>
+<a href="https://app.pluralsight.com/profile/avi-kathuria" title='Pluralsight'>
+    <img align="left" alt="Avi's Pluralsight" width="32px" src="https://user-images.githubusercontent.com/4683221/34775011-89bb46c2-f609-11e7-8bd1-d7a70d2277fd.jpg" />
+</a>  
 </details>
 <br /><br />  
 
