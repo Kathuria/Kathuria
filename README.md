@@ -22,7 +22,7 @@ const avi = {
   currentChallenge: "I am exploring alexa integrations with products "
 }
 ```
-<details close>
+<details open>
 <summary><b>Technologies</b></summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -46,7 +46,7 @@ const avi = {
 </details>
 <br />
 
-<details close>
+<details open>
 <summary><b>Git Statistics</b></summary>
 <p align="left">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Kathuria&show_icons=true&include_all_commits=true&theme=buefy"/>
@@ -56,7 +56,7 @@ const avi = {
 </details>
 <br />
 
-<details close>
+<details open>
 <summary><b>Competitive Programming Profiles</b></summary>
 <a href="https://www.hackerrank.com/Kathuria" title='Hackerrank'>
     <img align="left" alt="Avi's hackerrank" width="40px" src="https://cdn.cutshort.io/public/companies/572b17e20aeee5dd0b12e94a/hackerrank-logo" />
@@ -86,9 +86,9 @@ const avi = {
     <img align="left" alt="Avi's Pluralsight" width="40px" src="https://user-images.githubusercontent.com/4683221/34775011-89bb46c2-f609-11e7-8bd1-d7a70d2277fd.jpg" />
 </a>  
 </details>
-<br /> <br />
+<br />
 
-<details close>
+<details open>
 <summary><b>Alexa Skills</b></summary>
 <a href="https://www.amazon.in/Kathuria-Indian-National-Anthem/dp/B077GSNST1" title='Indian National Anthem'>
     <img align="left" alt="Indian National Anthem Skill" width="60px" src="https://images-na.ssl-images-amazon.com/images/I/71FNomBSzKL.png" />
