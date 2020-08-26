@@ -62,7 +62,7 @@ const avi = {
     <img align="left" alt="Avi's hackerrank" width="40px" src="https://cdn.cutshort.io/public/companies/572b17e20aeee5dd0b12e94a/hackerrank-logo" />
 </a>
 <a href="http://www.hackerearth.com/@kathuria.avi" title='Hackerearth'>
-    <img align="left" alt="Avi's Hackerearth" width="32px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1445268576/bus7umjcy0wqunjefizi.jpg" />
+    <img align="left" alt="Avi's Hackerearth" width="40px" src="https://media.cdn.gradconnection.com/uploads/8cda75b2-8384-47be-af0b-6c1d4314bc0a-HACKEREARTH_LOGO.png" />
 </a>
 <a href="https://www.codecademy.com/profiles/Kathuria" title='Codecademy'>
     <img align="left" alt="Avi's Codecademy" width="40px" src="https://alternative.me/media/256/codecademy-icon-kaifscwzqkl89ywi-c.png" />
@@ -75,9 +75,9 @@ const avi = {
 </a>   
 <a href="https://projecteuler.net/progress" title='ProjectEuler'>
     <img align="left" alt="Avi's ProjectEuler" width="40px" src="https://nl.mathworks.com/images/responsive/supporting/matlabcentral/cody/badges/project_euler.png" />
-</a>  
+</a>    
 <a href="https://sapient.udemy.com/user/avi-kathuria/" title='Udemy'>
-    <img align="left" alt="Avi's Udemy" width="40px" src="https://pbs.twimg.com/profile_images/1251141687000264704/U6aXex47_400x400.png" />
+    <img align="left" alt="Avi's Udemy" width="40px" src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg" />
 </a>    
 <a href="https://www.coursera.org/user/e772ef4969c9d33f567c951ad217e3fb" title='Coursera'>
     <img align="left" alt="Avi's Coursera" width="40px" src="https://ucarecdn.com/e483b814-5ca9-4784-95b8-be011000c26e/-/format/jpeg/-/progressive/yes/-/preview/480x480/" />
@@ -85,6 +85,9 @@ const avi = {
 <a href="https://app.pluralsight.com/profile/avi-kathuria" title='Pluralsight'>
     <img align="left" alt="Avi's Pluralsight" width="40px" src="https://user-images.githubusercontent.com/4683221/34775011-89bb46c2-f609-11e7-8bd1-d7a70d2277fd.jpg" />
 </a>  
+<a href="https://www.qwiklabs.com/public_profiles/ac8e6bd3-ce5a-40ae-b2fa-032e44e1b5e5" title='Qwiklabs'>
+    <img align="left" alt="Avi's Qwiklabs" width="40px" src="https://www.qwiklabs.com/qwiklabs_logo_900x887.png" />
+</a>    
 </details>
 <br /> <br />
 
