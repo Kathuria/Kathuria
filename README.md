@@ -1,7 +1,7 @@
 ### Hi there <img width="25px" src="https://reach.at/assets/images/waving-emoji.gif"/>
 ### I'm <img src="https://raw.githubusercontent.com/Kathuria/Kathuria/master/anmated-name.gif"/>
 <img align='right' src="https://raw.githubusercontent.com/Kathuria/Kathuria/master/avatar.png" width="230">
-<p><em>Senior Experience Technology Analyst at <a href="https://www.publicissapient.com/">Publicis Sapient</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Professionally - A Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: avi-kathuria](https://img.shields.io/badge/-avi%20kathuria-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avi-kathuria-6b222763/)](https://www.linkedin.com/in/avi-kathuria-6b222763/)
