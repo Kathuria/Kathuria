@@ -126,7 +126,12 @@ const avi = {
 </details>
 <br /> <br /> <br />
 
+<b>Hacktoberfest Contribution (Holopin Profile)</b> 
+<br /> <br />
+[![An image of @kathuria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kathuria)](https://holopin.io/@kathuria)
+<br /> <br />
+
 <!-- Feel free to reach out and introduce yourself :D-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to connect me.</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people around the world, so if you want to be my friend, feel free to connect me.</b> 😊</em>
 
 <!--The End, special thanks to all the wonderful people who made the GitHub profile readme stats/workflows to make my profile look fabulously dynamic ❤️-->
