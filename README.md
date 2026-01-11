@@ -4,11 +4,11 @@
 <p><em>Professionally - A Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+[![Portfolio](https://img.shields.io/badge/-portfolio-yellow?style=plastic&logo=Linkedin&logoColor=white&link=https://avikathuria-portfolio-ymlhrik.gamma.site/)](https://avikathuria-portfolio-ymlhrik.gamma.site/)
 [![Linkedin: avi-kathuria](https://img.shields.io/badge/-avi%20kathuria-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avi-kathuria-6b222763/)](https://www.linkedin.com/in/avi-kathuria-6b222763/)
-[![Gmail Badge](https://img.shields.io/badge/-avikathuria21@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:avikathuria21@gmail.com)](mailto:avikathuria21@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:avikathuria21@gmail.com)](mailto:avikathuria21@gmail.com)
 ![](https://komarev.com/ghpvc/?username=Kathuria&color=green)
 [![GitHub Kathuria](https://img.shields.io/github/followers/Kathuria?label=follow&style=social)](https://github.com/Kathuria)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -43,16 +43,6 @@ const avi = {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-</details>
-<br />
-
-<details open>
-<summary><b>Git Statistics</b></summary>
-<p align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Kathuria&show_icons=true&include_all_commits=true&theme=buefy"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathuria&layout=compact&theme=buefy"/>
-</p>
 </details>
 <br />
 
